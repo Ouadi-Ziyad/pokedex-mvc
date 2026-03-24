@@ -41,7 +41,7 @@ Ouvrez votre navigateur internet et allez à l'adresse suivante : http://localho
 Profitez de votre Pokédex !
 
 🤝 Crédits
-Données : Toutes les informations et images des Pokémon proviennent de l'excellente API Tyradex.
+Données : Toutes les informations et images des Pokémon proviennent de l'excellente API Tyradex (https://tyradex.app/).
 
 Design : L'apparence visuelle claire et moderne est réalisée grâce à PicoCSS, un outil qui rend les sites élégants très facilement.
 
