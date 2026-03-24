@@ -1,0 +1,9 @@
+services:
+  php:
+    build: .
+    container_name: php-pokedex-mvc
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/var/www/html
+
